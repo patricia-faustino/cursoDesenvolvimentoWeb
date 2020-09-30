@@ -22,6 +22,7 @@ pessoa.dataDeNascimento= '20/ 08/ 2020'
 console.log(pessoa.dataDeNascimento)
 console.log(Object.keys(pessoa))
 
+// Object.assing ECMAScript 2015
 const dest ={ a: 1 }
 const o1 = { b: 5 }
 const o2 = { c: 7, a: 4 }
