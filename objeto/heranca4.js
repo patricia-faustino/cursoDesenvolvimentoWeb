@@ -15,7 +15,7 @@ console.log(`${filha2.nome} tem cabelos na cor ${filha2.corCabelo}`)
 console.log(Object.keys(filha1))
 console.log(Object.keys(filha2))
 
-for(let key in filha2){
-    filha2.hasOwnProperty(key) ?
-    console.log(key) : console.log(`Por herança ${key}`)
+for(let keys in filha2){
+    filha2.hasOwnProperty(keys) ?
+    console.log(keys) : console.log(`Por herança ${keys}`)
 }
