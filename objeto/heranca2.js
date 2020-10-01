@@ -1,4 +1,3 @@
-
 // Cadeia de protótipos (prototype chain)
 Object.prototype.atr0 = '0' // Não faça isso em casa
 const avo = { atr1: 'A' }
