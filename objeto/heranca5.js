@@ -19,4 +19,4 @@ String.prototype.toString = function () {
     return 'Lascou tudo'
 }
 
-console.log('Escola Cod3r'.reverse())
+console.log('Escola Cod3r'.reverse()) 
