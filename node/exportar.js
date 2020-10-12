@@ -3,7 +3,7 @@ console.log(module.exports === this)
 console.log(module.exports === exports)
 
 // tornando as variaveis "exportaveis"
-
+// this e exports são referências para onde o exports aponta
 this.a = 1
 exports.b = 2
 module.exports.c = 3
