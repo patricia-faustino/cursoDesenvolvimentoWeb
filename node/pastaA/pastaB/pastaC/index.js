@@ -1,0 +1,1 @@
+exports.ola = 'Olá, seja bem vindo'
